@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="document_list_empty_text">Список документов пуст</string>
+    
+    <string name="button_yes">Да</string>
+    <string name="button_no">Нет</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_delete">Удалить</string>
+    
+    <string name="message1">Показать отчет?</string>
+    <string name="message2">Нет доступного приложения для открытия файла с отчетом. Установить необходимое приложение (требуется соединение с Интернет)?</string>
+    <string name="message3">Выйти из программы?</string>
+    <string name="message4">Закрыть документ?</string>
+    <string name="message5">Удалить все отчеты?</string>
+    <string name="message7">Удалить базу данных?</string>
+    <string name="message6">Выберите почтовый клиент: </string>
+</resources>

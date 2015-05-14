@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tag_screenId" type="id">1</item>
+    <item name="tag_compId" type="id">2</item>
+    <item name="tag_depends" type="id">3</item>
+    <item name="tag_type" type="id">4</item>
+    <item name="tag_mrnbl" type="id">5</item>
+    <item name="tag_prodId" type="id">6</item>
+</resources>

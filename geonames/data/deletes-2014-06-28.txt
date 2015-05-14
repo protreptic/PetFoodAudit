@@ -1,0 +1,9 @@
+6463841	Franklin Feel the Sound	duplicate
+6506638	Bw Premier Hotel Globus City	triplicate
+9174184	Best Western Premier Hotel Globus City	triplicate
+6510117	Bw Gruener Baum	duplicate
+6487155	Mercure Hotel La Gradisca	duplicate
+6480877	Ramada Rimini	duplicate
+6533326	Bw Hotel Laurin	duplicate
+9166546	Al-Mada'in District	duplicate of 99110 
+9166485	Daykundi Province	duplicate 6957553
